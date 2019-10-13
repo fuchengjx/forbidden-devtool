@@ -1,0 +1,22 @@
+{
+  "name": "forbidden-devtool",
+  "version": "1.0.0",
+  "description": "禁止浏览器打开开发者工具(forbidden devtool)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fuchengjx/forbidden-devtool.git"
+  },
+  "author": {
+    "name": "flura",
+    "email": "fc327619852@gmail.com"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/fuchengjx/forbidden-devtool/issues"
+  },
+  "homepage": "https://github.com/fuchengjx/forbidden-devtool#readme"
+}
